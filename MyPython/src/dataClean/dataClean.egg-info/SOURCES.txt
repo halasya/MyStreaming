@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+dataClean.egg-info/PKG-INFO
+dataClean.egg-info/SOURCES.txt
+dataClean.egg-info/dependency_links.txt
+dataClean.egg-info/entry_points.txt
+dataClean.egg-info/top_level.txt
+dataClean.egg-info/zip-safe
+dataclean/__init__.py

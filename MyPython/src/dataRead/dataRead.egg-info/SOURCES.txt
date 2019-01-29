@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+dataRead.egg-info/PKG-INFO
+dataRead.egg-info/SOURCES.txt
+dataRead.egg-info/dependency_links.txt
+dataRead.egg-info/entry_points.txt
+dataRead.egg-info/top_level.txt
+dataRead.egg-info/zip-safe
+dataread/__init__.py

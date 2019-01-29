@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+modelBuild.egg-info/PKG-INFO
+modelBuild.egg-info/SOURCES.txt
+modelBuild.egg-info/dependency_links.txt
+modelBuild.egg-info/entry_points.txt
+modelBuild.egg-info/top_level.txt
+modelBuild.egg-info/zip-safe
+modelbuild/__init__.py

@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+dataExplore.egg-info/PKG-INFO
+dataExplore.egg-info/SOURCES.txt
+dataExplore.egg-info/dependency_links.txt
+dataExplore.egg-info/entry_points.txt
+dataExplore.egg-info/top_level.txt
+dataExplore.egg-info/zip-safe
+dataexplore/__init__.py

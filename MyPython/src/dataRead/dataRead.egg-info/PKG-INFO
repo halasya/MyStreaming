@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: dataRead
+Version: 0.0.1.dev0
+Summary: 'package to read data for machine learning tasks'
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: 'siva.halasya@gmail.com'
+License: 'MIT'
+Description: UNKNOWN
+Keywords: 'readcsv' 'readtext' 'readexcel' 'readtable' 'readdataframe'
+Platform: UNKNOWN

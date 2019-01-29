@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+modelEvaluate.egg-info/PKG-INFO
+modelEvaluate.egg-info/SOURCES.txt
+modelEvaluate.egg-info/dependency_links.txt
+modelEvaluate.egg-info/entry_points.txt
+modelEvaluate.egg-info/top_level.txt
+modelEvaluate.egg-info/zip-safe
+modelevaluate/__init__.py
